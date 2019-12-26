@@ -1,0 +1,5 @@
+ctx.fillStyle = "COLOR" //set fill COLOR
+ctx.fillRect(x,y,w,h) = Draw rectangle with filling
+ctx.strokeRect(x,y,w,h) = Draw rectangle with stroke
+
+fillStyle = 'rgb' 'rgba'
